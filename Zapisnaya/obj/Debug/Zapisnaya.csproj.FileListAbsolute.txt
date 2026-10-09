@@ -1,0 +1,37 @@
+G:\PP\Zapisnaya\Zapisnaya\bin\Debug\Zapisnaya.exe.config
+G:\PP\Zapisnaya\Zapisnaya\bin\Debug\Zapisnaya.exe
+G:\PP\Zapisnaya\Zapisnaya\bin\Debug\Zapisnaya.pdb
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.csproj.AssemblyReference.cache
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.Form1.resources
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.Properties.Resources.resources
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.csproj.GenerateResource.cache
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.csproj.CoreCompileInputs.cache
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.exe
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.pdb
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.MainForm.resources
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.DiscriptionForm.resources
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.csproj.ResolveComReference.cache
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.AddElementForm.resources
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.SearchForm.resources
+G:\PP\Zapisnaya\Zapisnaya\bin\Debug\Zapisnaya.exe.manifest
+G:\PP\Zapisnaya\Zapisnaya\bin\Debug\Zapisnaya.application
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.exe.manifest
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.application
+G:\PP\Zapisnaya\Zapisnaya\bin\Debug\Costura.dll
+G:\PP\Zapisnaya\Zapisnaya\bin\Debug\Costura.pdb
+G:\PP\Zapisnaya\Zapisnaya\bin\Debug\Costura.xml
+G:\PP\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.csproj.CopyComplete
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.csproj.AssemblyReference.cache
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.csproj.ResolveComReference.cache
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.AddElementForm.resources
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.DiscriptionForm.resources
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.Form1.resources
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.MainForm.resources
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.Properties.Resources.resources
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.SearchForm.resources
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.csproj.GenerateResource.cache
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.csproj.CoreCompileInputs.cache
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.csproj.Fody.CopyLocal.cache
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.exe
+C:\Users\САМЫЙ САСНЫЙ МУЖИК\Desktop\Флешка\МУСОР\ПП\Zapisnaya\Zapisnaya\obj\Debug\Zapisnaya.pdb
